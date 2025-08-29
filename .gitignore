@@ -1,0 +1,16 @@
+__pycache__/
+.DS_Store
+.env
+.venv/
+venv/
+ENV/
+env/
+chats/
+logs/
+*.log
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+*.session
+settings.json
