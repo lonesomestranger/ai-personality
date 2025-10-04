@@ -187,6 +187,10 @@
 *   `initiation_interval_hours` (Интервал инициации): Как часто личность будет проверять, не пора ли ей написать кому-нибудь первой.
 *   `excluded_chats`, `content_restriction_removed_chats`, `priority_initiation_chats`: Списки чатов для управления поведением, которые можно редактировать через админ-бота.
 
+## ⛰ Codeberg
+
+Код также доступен на [Codeberg](https://codeberg.org/lonesomestranger/ai-personality).
+
 ## Лицензия
 
 Этот проект распространяется под лицензией MIT. Подробности смотрите в файле `LICENSE`.
